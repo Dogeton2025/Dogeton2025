@@ -3,16 +3,16 @@
           en: {
             // Navegación
             'nav-home': 'Home',
-            'hero-tagline': '🌟 Changing the perception of Meme Coins: ÐOGE TON combines 🎯 purpose, ⚙️ real utility, and 🎉 fun into a coin that truly makes a difference on the TON Network. 🌐',
+            'hero-tagline': '🌟 Changing the perception of Meme Coins: ÐOGE ₮ON combines 🎯 purpose, ⚙️ real utility, and 🎉 fun into a coin that truly makes a difference on the TON Network. 🌐',
 
 
             'nav-about': 'More',
-            'about-title': 'About ÐOGE TON',
+            'about-title': 'About ÐOGE ₮ON',
             'about-content': 'ÐOGE TON 💎 is much more than just a meme coin: it’s a revolutionary movement 🌟 driven by its community and supported by the ultra-fast ⚡ and secure 🔒 infrastructure of TON Network. Designed to connect the ÐOGE 🐶 and TON 💎 communities, especially on Telegram ✉️, this coin redefines the concept of meme coins by incorporating real utility 🎯. Inspired by its founder’s vision, ÐOGE TON 💎 aims to provide a safe haven 🛡️ for long-term investors by developing a self-sustaining digital asset. Through smart liquidity reinvestment strategies, it ensures greater stability 📈 and mitigates price drops over time. ÐOGE TON 💎 is not just a token; it’s a vision for an innovative, reliable, and functional future, created to endure over time. 🌐',
 
            
             'nav-features': 'Benefits',
-            'features-title': 'Why Choose ÐOGE TON?',
+            'features-title': 'Why Choose ÐOGE ₮ON?',
             'feature-1-title': 'Ultra Fast',
             'feature-1-desc': 'Taking advantage of the TON network, our transactions are instant, with minimal fees and the convenience of performing an operation directly from Telegram.',
             'feature-2-title': 'Community Driven',
@@ -33,7 +33,7 @@
 
             'nav-plans': 'Plans',
             'plans-title': 'Our Plans',
-            'plans-intro': 'At ÐOGE TON, we\'re not just looking to develop a cryptocurrency, but to create a dynamic ecosystem that continuously benefits our community.',
+            'plans-intro': 'At ÐOGE ₮ON, we\'re not just looking to develop a cryptocurrency, but to create a dynamic ecosystem that continuously benefits our community.',
             'plans-community-title': 'Participative Community',
             'plans-community-desc': 'Unlike other projects, we\'ll make important decisions together with our community. We\'ll conduct surveys to evaluate new ideas, such as games and applications, ensuring that every step aligns with our users\' expectations and needs.',
             'plans-utility-title': 'Real Utility Generation',
@@ -48,7 +48,7 @@
 
 
             'nav-roadmap': 'Roadmap',
-            'roadmap-1-title': 'Create ÐOGE TON Token',
+            'roadmap-1-title': 'Create ÐOGE ₮ON Token',
             'roadmap-1-desc': 'Launch of the initial token on TON Network✅',
             'roadmap-2-title': 'Market Listing',
             'roadmap-2-desc': 'List token on the market⏳',
@@ -59,16 +59,16 @@
             'roadmap-5-title': 'Key Partnerships',
             'roadmap-5-desc': 'Establish key collaborations⏳',
             'roadmap-6-title': 'Game Development',
-            'roadmap-6-desc': 'Develop a game that allows earning ÐOGE TON⏳',
+            'roadmap-6-desc': 'Develop a game that allows earning ÐOGE ₮ON⏳',
             'roadmap-7-title': 'Task Platform Launch',
             'roadmap-7-desc': 'Launch a task website with a Telegram bot⏳',
             'roadmap-8-title': 'CoinMarketCap Listing',
-            'roadmap-8-desc': 'Get ÐOGE TON listed on CoinMarketCap⏳',
+            'roadmap-8-desc': 'Get ÐOGE ₮ON listed on CoinMarketCap⏳',
             
 
             'nav-distribution': 'Distribution', 
             'distribution-title': 'Token Distribution',
-            'distribution-item-1': 'Market Liquidity (TON vs ÐOGE TON)',
+            'distribution-item-1': 'Market Liquidity (₮ON vs ÐOGE ₮ON)',
             'distribution-item-2': 'Reserve Fund',
             'distribution-item-3': 'Community Rewards',
             'distribution-item-4': 'Salary Payments',
@@ -97,7 +97,7 @@
 
 
             'nav-contact': 'Contact',
-            'hero-title': 'ÐOGE TON',
+            'hero-title': 'ÐOGE ₮ON',
 
             'Warning': 'Warning and Disclaimer',
             'Investing': 'Investing in cryptocurrencies involves significant risks. Prices are highly volatile and can fluctuate rapidly, potentially resulting in partial or total loss of your investment. We strongly encourage you to conduct your own research (DYOR) and consult with a financial advisor before making any decisions.',
@@ -111,15 +111,15 @@
           es: {
             // Navegación 
             'nav-home': 'Inicio',
-            'hero-tagline': '🌟 Cambiando la percepción de las Meme Coins: ÐOGE TON combina 🎯 propósito, ⚙️ utilidad real y 🎉 diversión en una moneda que realmente marca la diferencia en TON Network. 🌐',
+            'hero-tagline': '🌟 Cambiando la percepción de las Meme Coins: ÐOGE ₮ON combina 🎯 propósito, ⚙️ utilidad real y 🎉 diversión en una moneda que realmente marca la diferencia en TON Network. 🌐',
 
 
             'nav-about': 'Más',
-            'about-title': 'Acerca de ÐOGE TON',
+            'about-title': 'Acerca de ÐOGE ₮ON',
             'about-content': 'ÐOGE TON 💎 es mucho más que una simple moneda meme: es un movimiento revolucionario 🌟 impulsado por su comunidad y respaldado por la infraestructura ultrarrápida ⚡ y segura 🔒 de TON Network. Diseñada para conectar las comunidades ÐOGE 🐶 y TON 💎, especialmente en Telegram ✉️, esta moneda transforma el concepto de las meme coins al incorporar una utilidad real 🎯. Inspirada en la visión de su fundador, ÐOGE TON 💎 busca ofrecer un refugio seguro 🛡️ para los inversores a largo plazo, desarrollando un activo digital autosostenible. Gracias a estrategias inteligentes de reinversión de liquidez, se garantiza una mayor estabilidad 📈 y se mitigan las caídas de precios con el tiempo. ÐOGE TON 💎 no es solo un token; es una apuesta hacia un futuro innovador, confiable y funcional, creado para perdurar en el tiempo. 🌐',                   
 
             'nav-features': 'Beneficios',
-            'features-title': '¿Por qué elegir ÐOGE TON?',
+            'features-title': '¿Por qué elegir ÐOGE ₮ON?',
             'feature-1-title': 'Ultra Rápido',
             'feature-1-desc': 'Aprovechando la red TON, nuestras transacciones son instantáneas, con tarifas mínimas y la comodidad de realizar una operación directamente desde Telegram.',
             'feature-2-title': 'Impulsado por la Comunidad',
@@ -133,7 +133,7 @@
 
             'nav-vision': 'Visión',
             'vision-title': 'Nuestra Visión',
-            'vision-text': 'ÐOGE TON no es simplemente otra criptomoneda o una moneda meme lanzada para aprovechar el mercado. Es una fusión revolucionaria del espíritu comunitario de DOGE 🐶 y la avanzada tecnología de TON Network 💎. Nuestra visión es crear un ecosistema vibrante 🌐 donde la cultura de los memes se combine con una utilidad real 🎯, formando una plataforma impulsada por la comunidad que sea tanto divertida 🎉 como funcional ⚙️. Buscamos evitar los errores que han llevado al fracaso a muchos proyectos de criptomonedas, construyendo un camino sólido y estructurado para generar una diferencia genuina en la confianza de los inversores 💡. Aprendemos de los tropiezos del pasado para diseñar un futuro sostenible ♻️, con una estrategia enfocada en la seguridad 🔒, la utilidad real 🎯 y la transparencia 📊. Además, solo el creador tendrá acceso a las billeteras principales de ÐOGE TON 💎, asegurando una gestión responsable de los fondos y evitando cualquier riesgo de mal manejo.',
+            'vision-text': 'ÐOGE ₮ON no es simplemente otra criptomoneda o una moneda meme lanzada para aprovechar el mercado. Es una fusión revolucionaria del espíritu comunitario de DOGE 🐶 y la avanzada tecnología de TON Network 💎. Nuestra visión es crear un ecosistema vibrante 🌐 donde la cultura de los memes se combine con una utilidad real 🎯, formando una plataforma impulsada por la comunidad que sea tanto divertida 🎉 como funcional ⚙️. Buscamos evitar los errores que han llevado al fracaso a muchos proyectos de criptomonedas, construyendo un camino sólido y estructurado para generar una diferencia genuina en la confianza de los inversores 💡. Aprendemos de los tropiezos del pasado para diseñar un futuro sostenible ♻️, con una estrategia enfocada en la seguridad 🔒, la utilidad real 🎯 y la transparencia 📊. Además, solo el creador tendrá acceso a las billeteras principales de ÐOGE TON 💎, asegurando una gestión responsable de los fondos y evitando cualquier riesgo de mal manejo.',
 
             'difference-title': 'Por qué somos diferentes',
             'difference-text': 'Durante más de cinco años, hemos sido testigos de cómo algunos proyectos han explotado la desesperación de las personas, prometiendo sueños imposibles y dejando a los inversores con pérdidas significativas. En ÐOGE TON, nuestra filosofía es completamente diferente. Creemos en la transparencia total 💎. Por eso, todos los datos del equipo están disponibles, un acto poco común que refuerza nuestra confianza y compromiso con la comunidad. Además, comenzamos con una comunidad genuina 🌱, sin bots ni inflación artificial de miembros, asegurando que nuestra base de apoyo sea real y sólida. Aquellos que confían en nosotros desde el principio serán los mayores beneficiarios a largo plazo 📈, porque estamos construyendo algo real, desde cero, con la intención de que dure para siempre ♾️.',
@@ -141,7 +141,7 @@
 
             'nav-plans': 'Planes',
             'plans-title': 'Nuestros Planes',
-            'plans-intro': 'En ÐOGE TON, no solo buscamos desarrollar una criptomoneda, sino crear un ecosistema dinámico que beneficie continuamente a nuestra comunidad.',
+            'plans-intro': 'En ÐOGE ₮ON, no solo buscamos desarrollar una criptomoneda, sino crear un ecosistema dinámico que beneficie continuamente a nuestra comunidad.',
             'plans-community-title': 'Comunidad Participativa',
             'plans-community-desc': 'A diferencia de otros proyectos, tomaremos decisiones importantes junto con nuestra comunidad. Realizaremos encuestas para evaluar nuevas ideas, como juegos y aplicaciones, y nos aseguraremos de que cada paso esté alineado con las expectativas y necesidades de nuestros usuarios.',
             'plans-utility-title': 'Generación de Utilidad Real',
@@ -152,11 +152,11 @@
             'plans-youtube-desc': 'A través de nuestro canal de YouTube, realizaremos transmisiones en vivo para responder preguntas, entrevistar a expertos y educar sobre el trading. El 50% de las ganancias del canal se reinvertirán en liquidez de tokens, promoviendo el crecimiento sostenible del proyecto.',
             'plans-games-title': 'Juegos y Más',
             'plans-games-desc': 'Planeamos desarrollar juegos adictivos donde los usuarios puedan ganar ÐOGE TON, atrayendo a más personas al ecosistema y generando un ciclo positivo para la comunidad.',
-            'plans-conclusion': 'Queremos que ÐOGE TON sea mucho más que un proyecto: sea una revolución en el mundo de las criptomonedas.',
+            'plans-conclusion': 'Queremos que ÐOGE ₮ON sea mucho más que un proyecto: sea una revolución en el mundo de las criptomonedas.',
 
 
             'nav-roadmap': 'Hoja de Ruta',
-            'roadmap-1-title': 'Crear el Token ÐOGE TON',
+            'roadmap-1-title': 'Crear el Token ÐOGE ₮ON',
             'roadmap-1-desc': 'Lanzamiento del token inicial en la red TON✅',
             'roadmap-2-title': 'Listado de Mercado',
             'roadmap-2-desc': 'Lista de tokens en el mercado⏳',
@@ -167,16 +167,16 @@
             'roadmap-5-title': 'Asociaciones Claves',
             'roadmap-5-desc': 'Establecer colaboraciones clave',
             'roadmap-6-title': 'Desarrollo de Juegos',
-            'roadmap-6-desc': 'Desarrollar un juego que permita ganar ÐOGE TON⏳',
+            'roadmap-6-desc': 'Desarrollar un juego que permita ganar ÐOGE ₮ON⏳',
             'roadmap-7-title': 'Lanzamiento de la plataforma de tareas',
             'roadmap-7-desc': 'Iniciar un sitio web de tareas con un bot de Telegram⏳',
             'roadmap-8-title': 'Listado de CoinMarketCap',
-            'roadmap-8-desc': 'Incluya ÐOGE TON en CoinMarketCap⏳',
+            'roadmap-8-desc': 'Incluya ÐOGE ₮ON en CoinMarketCap⏳',
 
 
             'nav-distribution': 'Distribución',
             'distribution-title': 'Distribución de tokens',
-            'distribution-item-1': 'Liquidez del mercado (TON vs ÐOGE TON)',
+            'distribution-item-1': 'Liquidez del mercado (₮ON vs ÐOGE ₮ON)',
             'distribution-item-2': 'Fondo de Reserva',
             'distribution-item-3': 'Recompensas de la Comunidad',
             'distribution-item-4': 'Pagos de salario',
@@ -209,7 +209,7 @@
 
 
             'nav-contact': 'Contacto',
-            'hero-title': 'ÐOGE TON',
+            'hero-title': 'ÐOGE ₮ON',
 
             'Warning': 'Advertencia Descargo de Responsabilidad',
             'Investing': 'Invertir en criptomonedas implica riesgos significativos. Los precios son muy volátiles y pueden fluctuar rápidamente, lo que podría resultar en la pérdida total o parcial de su inversión. Le recomendamos encarecidamente que realice su propia investigación (DYOR) y consulte con un asesor financiero antes de tomar cualquier decisión.',
